@@ -1,4 +1,4 @@
-#### Welcome to Shaojun Jia's E-portfolio on GitHub
+# Welcome to Shaojun Jia's E-portfolio on GitHub
 ## My Resume 👋
  
 - My Name: Shaojun Jia
