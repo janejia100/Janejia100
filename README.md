@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### Test
-<!--
+
 **janejia100/Janejia100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,5 +39,5 @@ IT admin/Software Developer/ Head of IT Dept.  | KONKA Group – Shenzhen, China
 Directed IT operations across desktop, server, and network infrastructure for 3000+ users.
 
 Certifications : Cisco Certified Network Associate (CCNA) – In Progress
--->
+
 
