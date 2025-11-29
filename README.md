@@ -1,12 +1,6 @@
-### Hi there 👋
+### My Resume 👋
 
-**janejia100/Janejia100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- My Resume
-- Name: Shaojun Jia
+- My Name: Shaojun Jia
 - 📍 Markham, ON, Canada | 📞 506-898-3580 | ✉️ sjia7@myseneca.ca | LinkedIn | GitHub
 
 - 🔭 My Objective
