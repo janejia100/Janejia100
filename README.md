@@ -1,4 +1,4 @@
-# Welcome to Shaojun Jia's E-portfolio on GitHub ! All my codes and lab repository are free on GitHub for you! 
+# Welcome to Shaojun Jia's E-portfolio on GitHub ! All my codes and lab repository are free for you here! 
 ## My Resume 👋
  
 - My Name: Shaojun Jia
