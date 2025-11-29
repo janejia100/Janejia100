@@ -4,7 +4,7 @@
 - 📍 Markham, ON, Canada | 📞 506-898-3580 | ✉️ sjia7@myseneca.ca | LinkedIn | GitHub
 
 - 🔭 My Objective
-Computer Systems Technician (Co-op) student at Seneca Polytechnic (GPA 4.0, President’s Honour List) with 15+ years of IT administration experience. Skilled in desktop support, PC imaging/deployment, ITSM ticket handling, and customer service. Seeking to contribute as an IT Support Co-op Student with the City of Mississauga by delivering reliable front-line support and efficient IT asset management.
+Computer Systems Technician (Co-op) student at Seneca Polytechnic (GPA 4.0, President’s Honour List) with 15+ years of IT administration experience. Skilled in desktop support, PC imaging/deployment, ITSM ticket handling, and customer service. Seeking to contribute as an IT Exerpt by delivering reliable front-line support and efficient IT asset management.
 
 - 🔭 My Skills
 Support & Help Desk: Windows 10/11, macOS, Microsoft 365 (Outlook, Teams, OneDrive,sharepoint), ITSM/ticketing systems
