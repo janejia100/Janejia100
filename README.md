@@ -38,5 +38,5 @@
 
 ### 🔭 Certifications : 
 - Cisco Certified Network Associate (CCNA) – In Progress
-
+- Microsoft 365 Administrator Expert Certificate - In Progress
 
