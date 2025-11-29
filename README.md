@@ -21,13 +21,13 @@ Achieved A+ in all academic course( Networking, Security courses,Computer system
 
 - 👯 My Relevant Experience
 - Project & Labs | Seneca Polytechnic| 2025 – Present.
-Provided troubleshooting for Windows desktops, Office 365, and Outlook connectivity.
+-Provided troubleshooting for Windows desktops, Office 365, and Outlook connectivity.
 Deployed Windows Server roles (AD, DNS, DHCP) and Azure Entra ID integration.
 Built LAMP stack and AWS cloud web servers; supported web-based sys maintenance.
 Configured Cisco routers/switches (VLANs, ACLs, NAT, OSPF) for lab networks.
 Conducted PC imaging, switch setup, access point deployment, racking, and cabling.
 - Engineering System Manager |WIK Domestic Appliances – Shenzhen, China | 2015 – 2018
-Deployed PLM and engineering systems, improving uptime and cross-site collaboration.
+- Deployed PLM and engineering systems, improving uptime and cross-site collaboration.
 Provided end-user support for desktops, servers, and application software.
 - IT admin/Software Developer/ Head of IT Dept.  | KONKA Group – Shenzhen, China | 1999 – 2015
 Directed IT operations across desktop, server, and network infrastructure for 3000+ users.
