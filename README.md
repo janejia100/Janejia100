@@ -1,5 +1,6 @@
+#### Welcome to Shaojun Jia's E-portfolio on GitHub
 ## My Resume 👋
-
+ 
 - My Name: Shaojun Jia
 - 📍 Markham, ON, Canada | 📞 506-898-3580 | ✉️ sjia7@myseneca.ca | LinkedIn | GitHub
 
